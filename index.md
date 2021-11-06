@@ -8,7 +8,7 @@
 
 <title>
 
-  Heng-Jui Chang  
+  Pan-Yang Su  
 
 
 </title>
@@ -249,12 +249,12 @@
     
 
     <div class="clearfix">
-      <p>Hi! I’m Heng-Jui Chang (張恆瑞), a research assistant at the National Taiwan University (NTU) <a href="https://speech.ee.ntu.edu.tw/~hylee/" target="_blank" rel="noopener">Speech Processing and Machine Learning Lab</a> supervised by Prof. <a href="https://speech.ee.ntu.edu.tw/~hylee/" target="_blank" rel="noopener">Hung-yi Lee</a>.
-My research interests are in machine learning and speech processing.
-I am currently working on <strong>speech recognition</strong> and <strong>self-supervised learning</strong>.</p>
+      <p>Hi! I’m Pan-Yang Su (蘇磐洋), an undergraduate student at the <a href="https://web.ee.ntu.edu.tw/" target="_blank" rel="noopener">National Taiwan University Department of Electrical Engineering (NTUEE)</a>.
+My research interests are in game theory, algorithm, optimization, and quantum information theory.
+I am currently working on <strong>mechanism design for 5G networks</strong> and <strong>quantum game theory</strong>.</p>
 
-<p>I received my B.S. degree in Electrical Engineering from NTU in Jun 2021.
-I was an undergraduate researcher at the <a href="https://speech.ee.ntu.edu.tw/" target="_blank" rel="noopener">Speech Processing Lab</a> supervised by Prof. <a href="http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm" target="_blank" rel="noopener">Lin-shan Lee</a> and Prof. <a href="https://speech.ee.ntu.edu.tw/~hylee/" target="_blank" rel="noopener">Hung-yi Lee</a> from Mar 2019 to Jun 2021.</p>
+<p>I will receive my B.S. degree in Electrical Engineering from NTU in Jun 2022.
+I was an undergraduate researcher at the <a href="http://wmnlab.ee.ntu.edu.tw/lab/index.html" target="_blank" rel="noopener">Wireless Mobile Network Laboratory</a> supervised by Prof. <a href="https://homepage.ntu.edu.tw/~hywei/" target="_blank" rel="noopener">Hung-Yu Wei</a>.</p>
 
 <p>I’m seeking opportunities to study for a Ph.D. starting from 2022 fall!</p>
 
@@ -267,16 +267,6 @@ I was an undergraduate researcher at the <a href="https://speech.ee.ntu.edu.tw/"
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
       
-      
-        <tr>
-          <th scope="row">Sep 11, 2021</th>
-          <td>
-            
-              Our <a href="https://arxiv.org/abs/2104.02258" target="_blank" rel="noopener">paper</a> is accepted to <a href="https://asru2021.org/" target="_blank" rel="noopener">ASRU 2021</a>!
-
-            
-          </td>
-        </tr>
       
         <tr>
           <th scope="row">Jun 30, 2021</th>
