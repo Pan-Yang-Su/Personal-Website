@@ -50,10 +50,6 @@
 
 
 
-
-
-
-    
 <!-- MathJax -->
 <script type="text/javascript">
   window.MathJax = {
@@ -91,12 +87,6 @@
 
 
 
-
-
-
-
-
-
 <a href="https://drive.google.com/file/d/1_aQC3Kp-P3K8Wf7L7K-ZwR64NLJhdV4u/view?usp=sharing" target="_blank" title="CV"><i class="ai ai-cv"></i></a>
 
         </div>
@@ -122,25 +112,7 @@
           
           <!-- Other pages -->
           <!--  -->
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
+         
           
           <li class="nav-item ">
               <a class="nav-link" href="/publications/">
@@ -149,42 +121,26 @@
               </a>
           </li>
           
-          
-          
-          
-          
-          <li class="nav-item ">
+           <li class="nav-item ">
               <a class="nav-link" href="/projects/">
                 Projects
                 
               </a>
           </li>
-          
-          
-          
-          
-          
+                   
           <li class="nav-item ">
               <a class="nav-link" href="/honors/">
                 Honors
                 
               </a>
           </li>
-          
-          
-          
-          
-          
+           
           <li class="nav-item ">
               <a class="nav-link" href="/teaching/">
                 Teaching
                 
               </a>
           </li>
-          
-          
-          
-          
           
           <li class="nav-item dropdown ">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -196,9 +152,7 @@
               
                 <a class="dropdown-item" href="/activities/">activities</a>
               
-              
-              
-                <div class="dropdown-divider"></div>
+               <div class="dropdown-divider"></div>
               
               
               
@@ -325,14 +279,6 @@ I was an undergraduate researcher at the <a href="http://wmnlab.ee.ntu.edu.tw/la
     
     
       <a href="http://arxiv.org/abs/2110.01900" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
-    
-    
-    
-    
-    
-    
-    
-    
     
     
       <a href="https://github.com/s3prl/s3prl/tree/master/s3prl/upstream/distiller" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
@@ -469,12 +415,10 @@ I was an undergraduate researcher at the <a href="http://wmnlab.ee.ntu.edu.tw/la
     
 <footer class="fixed-bottom">
   <div class="container mt-0">
-    &copy; Copyright 2021 Heng-Jui Chang  .
+    &copy; Copyright 2021 Pan-Yang Su  .
     Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-    
-    
-    Last updated: November 01, 2021.
+    Last updated: November 06, 2021.
     
   </div>
 </footer>
