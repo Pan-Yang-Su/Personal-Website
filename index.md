@@ -7,7 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 -->
 
 ### Pan-Yang Su
-Hi, I'm Young from National Taiwan University, I'm major in Electrical Engineering.
+Hi! I’m Pan-Yang Su (蘇磐洋), an undergraduate student at the National Taiwan University (NTU). My research interests are in game theory, algorithm, optimization, and quantum information theory. I am currently working on mechanism design for 5G networks and quantum game theory.
+
+I’m seeking opportunities to study for a Ph.D. starting from 2022 fall!
 
 <!--### Jekyll Themes
 
