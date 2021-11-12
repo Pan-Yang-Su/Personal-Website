@@ -9,7 +9,7 @@
 
 <title>
 
-  Heng-Jui Chang  
+  Pan-Yang Su  
 
 
 </title>
@@ -50,11 +50,6 @@
 <script src="/assets/js/dark_mode.js"></script>
 
 
-
-
-
-
-    
 <!-- MathJax -->
 <script type="text/javascript">
   window.MathJax = {
@@ -91,13 +86,6 @@
 <a href="https://twitter.com/hjchang87" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
 
 
-
-
-
-
-
-
-
 <a href="https://drive.google.com/file/d/1_aQC3Kp-P3K8Wf7L7K-ZwR64NLJhdV4u/view?usp=sharing" target="_blank" title="CV"><i class="ai ai-cv"></i></a>
 
         </div>
@@ -123,69 +111,34 @@
           
           <!-- Other pages -->
           <!--  -->
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
+       
           <li class="nav-item ">
               <a class="nav-link" href="/publications/">
                 Publications
                 
               </a>
           </li>
-          
-          
-          
-          
-          
+
           <li class="nav-item ">
               <a class="nav-link" href="/projects/">
                 Projects
                 
               </a>
           </li>
-          
-          
-          
-          
-          
+
           <li class="nav-item ">
               <a class="nav-link" href="/honors/">
                 Honors
                 
               </a>
           </li>
-          
-          
-          
-          
-          
+   
           <li class="nav-item ">
               <a class="nav-link" href="/teaching/">
                 Teaching
                 
               </a>
           </li>
-          
-          
-          
-          
           
           <li class="nav-item dropdown ">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -318,54 +271,13 @@ I was an undergraduate researcher at the <a href="https://speech.ee.ntu.edu.tw/"
     
       <div class="title">DistilHuBERT: Speech Representation Learning by Layer-wise Distillation of Hidden-unit BERT</div>
       <div class="author">
-        
-          
-          
-          
-          
-          
-          
-            
-              
+             
                 <em>Heng-Jui Chang</em>,
-              
-            
-          
-        
-          
-          
-          
-          
-            
-              
-                
-                
-          
-          
-          
-            
               
                 
                   <a href="https://github.com/leo19941227" target="_blank">Shu-wen Yang</a>,
                 
               
-            
-          
-        
-          
-          
-          
-          
-            
-              
-                
-                
-          
-          
-          
-            
-              
-                
                   and <a href="http://speech.ee.ntu.edu.tw/~hylee/" target="_blank">Hung-yi Lee</a>
                 
               
@@ -388,14 +300,6 @@ I was an undergraduate researcher at the <a href="https://speech.ee.ntu.edu.tw/"
     
     
       <a href="http://arxiv.org/abs/2110.01900" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
-    
-    
-    
-    
-    
-    
-    
-    
     
     
       <a href="https://github.com/s3prl/s3prl/tree/master/s3prl/upstream/distiller" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
@@ -423,78 +327,18 @@ I was an undergraduate researcher at the <a href="https://speech.ee.ntu.edu.tw/"
       <div class="title">Non-autoregressive Mandarin-English Code-switching Speech Recognition</div>
       <div class="author">
         
-          
-          
-          
-          
             
-              
-                
-                
-          
-          
-          
-            
-              
                 
                   <a href="https://scholar.google.com.hk/citations?user=CYDgtRoAAAAJ" target="_blank">Shun-Po Chuang*</a>,
                 
-              
-            
-          
-        
-          
-          
-          
-          
-          
-          
-            
-              
                 <em>Heng-Jui Chang*</em>,
               
-            
-          
-        
-          
-          
-          
-          
-            
-              
-                
-                
-          
-          
-          
-            
-              
-                
+             
                   <a href="https://scholar.google.com.tw/citations?user=dtZ_69AAAAAJ" target="_blank">Sung-Feng Huang</a>,
-                
-              
-            
-          
-        
-          
-          
-          
-          
-            
-              
-                
-                
-          
-          
-          
-            
-              
                 
                   and <a href="http://speech.ee.ntu.edu.tw/~hylee/" target="_blank">Hung-yi Lee</a>
                 
               
-            
-          
         
       </div>
 
@@ -512,17 +356,6 @@ I was an undergraduate researcher at the <a href="https://speech.ee.ntu.edu.tw/"
     
     
       <a href="http://arxiv.org/abs/2104.02258" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     
     </div>
@@ -545,61 +378,15 @@ I was an undergraduate researcher at the <a href="https://speech.ee.ntu.edu.tw/"
       <div class="title">Towards Lifelong Learning of End-to-end ASR</div>
       <div class="author">
         
-          
-          
-          
-          
-          
-          
-            
-              
                 <em>Heng-Jui Chang</em>,
               
-            
-          
-        
-          
-          
-          
-          
-            
-              
-                
-                
-          
-          
-          
-            
-              
-                
                   <a href="http://speech.ee.ntu.edu.tw/~hylee/" target="_blank">Hung-yi Lee</a>,
                 
-              
-            
-          
-        
-          
-          
-          
-          
-            
-              
-            
-              
-                
-                
-          
-          
-          
-            
               
                 
                   and <a href="http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm" target="_blank">Lin-shan Lee</a>
                 
               
-            
-          
-        
       </div>
 
       <div class="periodical">
@@ -624,15 +411,6 @@ I was an undergraduate researcher at the <a href="https://speech.ee.ntu.edu.tw/"
     
       <a href="https://youtu.be/uLb3j1cEaX8" class="btn btn-sm z-depth-0" role="button" target="_blank">long video</a>
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
     </div>
 
     <!-- Hidden abstract block -->
@@ -653,81 +431,17 @@ I was an undergraduate researcher at the <a href="https://speech.ee.ntu.edu.tw/"
       <div class="title">End-to-end Whispered Speech Recognition with Frequency-weighted Approaches and Pseudo Whisper Pre-training</div>
       <div class="author">
         
-          
-          
-          
-          
-          
-          
-            
-              
                 <em>Heng-Jui Chang</em>,
               
             
-          
-        
-          
-          
-          
-          
-            
-              
-                
-                
-          
-          
-          
-            
-              
-                
                   <a href="https://alexander-h-liu.github.io/" target="_blank">Alexander H. Liu</a>,
-                
-              
-            
-          
-        
-          
-          
-          
-          
-            
-              
-                
-                
-          
-          
-          
-            
-              
-                
+               
                   <a href="http://speech.ee.ntu.edu.tw/~hylee/" target="_blank">Hung-yi Lee</a>,
-                
-              
-            
-          
-        
-          
-          
-          
-          
-            
-              
-            
-              
-                
-                
-          
-          
-          
-            
-              
+               
                 
                   and <a href="http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm" target="_blank">Lin-shan Lee</a>
                 
               
-            
-          
-        
       </div>
 
       <div class="periodical">
@@ -749,16 +463,6 @@ I was an undergraduate researcher at the <a href="https://speech.ee.ntu.edu.tw/"
       <a href="https://rc.signalprocessingsociety.org/workshops/slt-2021/SLT21VID027.html?source=IBP" class="btn btn-sm z-depth-0" role="button" target="_blank">video</a>
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     </div>
 
     <!-- Hidden abstract block -->
@@ -770,8 +474,6 @@ I was an undergraduate researcher at the <a href="https://speech.ee.ntu.edu.tw/"
 </div>
 </li></ol>
 </div>
-
-    
 
     
   </article>
@@ -809,10 +511,6 @@ I was an undergraduate researcher at the <a href="https://speech.ee.ntu.edu.tw/"
 <script defer src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
 <script defer src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 <script defer src="/assets/js/mansory.js" type="text/javascript"></script>
-
-
-  
-
 
 <!-- Medium Zoom JS -->
 <script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js" integrity="sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM=" crossorigin="anonymous"></script>
