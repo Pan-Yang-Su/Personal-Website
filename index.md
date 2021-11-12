@@ -219,15 +219,7 @@
       <table class="table table-sm table-borderless">
       
       
-        <tr>
-          <th scope="row">Sep 11, 2021</th>
-          <td>
-            
-              Our <a href="https://arxiv.org/abs/2104.02258" target="_blank" rel="noopener">paper</a> is accepted to <a href="https://asru2021.org/" target="_blank" rel="noopener">ASRU 2021</a>!
-
-            
-          </td>
-        </tr>
+        
       
         <tr>
           <th scope="row">Jun 30, 2021</th>
