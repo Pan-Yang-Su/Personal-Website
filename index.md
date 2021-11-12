@@ -203,12 +203,9 @@
     
 
     <div class="clearfix">
-      <p>Hi! I’m Pan-Yang Su (蘇磐洋), an undergraduate student at <a href="https://web.ee.ntu.edu.tw/" target="_blank" rel="noopener">NTUEE</a> supervised by Prof. <a href="https://speech.ee.ntu.edu.tw/~hylee/" target="_blank" rel="noopener">Hung-yi Lee</a>.
-My research interests are in machine learning and speech processing.
-I am currently working on <strong>speech recognition</strong> and <strong>self-supervised learning</strong>.</p>
+      <p>Hi! I’m Pan-Yang Su (蘇磐洋), an undergraduate student at <a href="https://web.ee.ntu.edu.tw/" target="_blank" rel="noopener">NTUEE</a>. My research interests are game theory and quantum information theory.</p>
 
-<p>I received my B.S. degree in Electrical Engineering from NTU in Jun 2021.
-I was an undergraduate researcher at the <a href="https://speech.ee.ntu.edu.tw/" target="_blank" rel="noopener">Speech Processing Lab</a> supervised by Prof. <a href="http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm" target="_blank" rel="noopener">Lin-shan Lee</a> and Prof. <a href="https://speech.ee.ntu.edu.tw/~hylee/" target="_blank" rel="noopener">Hung-yi Lee</a> from Mar 2019 to Jun 2021.</p>
+<p>I am an undergraduate researcher at the <a href="http://wmnlab.ee.ntu.edu.tw/lab/index.html" target="_blank" rel="noopener">Wireless and Mobile Network Laboratory</a> supervised by Prof. <a href="https://homepage.ntu.edu.tw/~hywei/" target="_blank" rel="noopener">Hung-Yu Wei</a>.</p>
 
 <p>I’m seeking opportunities to study for a Ph.D. starting from 2022 fall!</p>
 
