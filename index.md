@@ -203,7 +203,7 @@
     
 
     <div class="clearfix">
-      <p>Hi! I’m Heng-Jui Chang (張恆瑞), a research assistant at the National Taiwan University (NTU) <a href="https://speech.ee.ntu.edu.tw/~hylee/" target="_blank" rel="noopener">Speech Processing and Machine Learning Lab</a> supervised by Prof. <a href="https://speech.ee.ntu.edu.tw/~hylee/" target="_blank" rel="noopener">Hung-yi Lee</a>.
+      <p>Hi! I’m Pan-Yang Su (蘇磐洋), an undergraduate student at <a href="https://web.ee.ntu.edu.tw/" target="_blank" rel="noopener">NTUEE</a> supervised by Prof. <a href="https://speech.ee.ntu.edu.tw/~hylee/" target="_blank" rel="noopener">Hung-yi Lee</a>.
 My research interests are in machine learning and speech processing.
 I am currently working on <strong>speech recognition</strong> and <strong>self-supervised learning</strong>.</p>
 
