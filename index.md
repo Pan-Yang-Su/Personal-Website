@@ -217,20 +217,7 @@
   
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
-      
-      
-        
-      
-        <tr>
-          <th scope="row">Jun 30, 2021</th>
-          <td>
-            
-              I am accepted to <a href="http://ai.ntu.edu.tw/mlss2021/" target="_blank" rel="noopener">MLSS Taipei 2021</a> Standard Program (w/ poster presentation)!
-
-            
-          </td>
-        </tr>
-      
+     
         <tr>
           <th scope="row">Jun 2, 2021</th>
           <td>
