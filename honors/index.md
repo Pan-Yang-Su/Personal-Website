@@ -12,7 +12,7 @@
   Heng-Jui Chang  
 
 
-  | Projects
+  | Honors
 
 </title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -39,7 +39,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧑🏻‍💻</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/projects/">
+<link rel="canonical" href="/honors/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -124,8 +124,6 @@
           
           
           
-          
-          
           <li class="nav-item ">
               <a class="nav-link" href="/publications/">
                 Publications
@@ -137,11 +135,9 @@
           
           
           
-          <li class="nav-item active">
+          <li class="nav-item ">
               <a class="nav-link" href="/projects/">
                 Projects
-                
-                <span class="sr-only">(current)</span>
                 
               </a>
           </li>
@@ -150,9 +146,11 @@
           
           
           
-          <li class="nav-item ">
+          <li class="nav-item active">
               <a class="nav-link" href="/honors/">
                 Honors
+                
+                <span class="sr-only">(current)</span>
                 
               </a>
           </li>
@@ -218,214 +216,78 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Projects</h1>
+    <h1 class="post-title">Honors</h1>
     <p class="post-description"></p>
   </header>
 
   <article>
-    <div class="projects">
-  
-  <!-- Display projects without categories -->
-    
-    <!-- Generate cards for each project -->
-    
-      <div class="grid">
-        
-          <div class="grid-item">
-  
-  <a href="/projects/e2easr_project/">
-  
-    <div class="card hoverable">
-      
-      <img src="/assets/img/e2easr.png" alt="project thumbnail" />
-      
-      <div class="card-body">
-        <h3 class="card-title text-lowercase">End-to-end Speech Recognition</h3>
-        <p class="card-text">open-source project</p>
-        <div class="row ml-1 mr-1 p-0">
-          
-          <div class="github-icon">
-            <div class="icon" data-toggle="tooltip" title="Code Repository">
-              <a href="https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch" target="_blank"><i class="fab fa-github gh-icon"></i></a>
-            </div>
-            
-          </div>
-          
-        </div>
-      </div>
+    <ul>
+  <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+      Best Poster Honorable Mention
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      <a href="http://ai.ntu.edu.tw/mlss2021/" target="_blank" rel="noopener">Machine Learning Summer School</a>, 2021
+  </div>
+  </div>
+  </li>
+  <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+      Student Travel Grant
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      ISCA <a href="https://www.interspeech2021.org/" target="_blank" rel="noopener">Interspeech</a>, 2021
+  </div>
+  </div>
+  </li>
+  <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+      Dean's List Awards x 5
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      NTU, 2017-2021
+  </div>
+  </div>
+  </li>
+  <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+      <a href="https://irvingthofoundation.github.io/ho-fellows.htm" target="_blank" rel="noopener">Irving T. Ho Memorial Scholarship</a>
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      NTU, 2020
+  </div>
+  </div>
+  </li>
+</ul>
+
+<!-- - <div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+
     </div>
-  </a>
-</div>
-
+    <div class="col-sm-6 mt-3 mt-md-0" align="right">
         
-          <div class="grid-item">
-  
-  <a href="/projects/miniasr_project/">
-  
-    <div class="card hoverable">
-      
-      <img src="/assets/img/miniasr_logo.png" alt="project thumbnail" />
-      
-      <div class="card-body">
-        <h3 class="card-title text-lowercase">MiniASR</h3>
-        <p class="card-text">open-source project</p>
-        <div class="row ml-1 mr-1 p-0">
-          
-          <div class="github-icon">
-            <div class="icon" data-toggle="tooltip" title="Code Repository">
-              <a href="https://github.com/vectominist/MiniASR" target="_blank"><i class="fab fa-github gh-icon"></i></a>
-            </div>
-            
-          </div>
-          
-        </div>
-      </div>
     </div>
-  </a>
-</div>
+    </div> -->
 
-        
-          <div class="grid-item">
-  
-  <a href="/projects/s3prl_project/">
-  
-    <div class="card hoverable">
-      
-      <img src="https://raw.githubusercontent.com/s3prl/s3prl/master/file/S3PRL-logo.png" alt="project thumbnail" />
-      
-      <div class="card-body">
-        <h3 class="card-title text-lowercase">S3PRL</h3>
-        <p class="card-text">open-source project</p>
-        <div class="row ml-1 mr-1 p-0">
-          
-          <div class="github-icon">
-            <div class="icon" data-toggle="tooltip" title="Code Repository">
-              <a href="https://github.com/s3prl/s3prl" target="_blank"><i class="fab fa-github gh-icon"></i></a>
-            </div>
-            
-          </div>
-          
-        </div>
-      </div>
-    </div>
-  </a>
-</div>
+<!-- 
+- Best Poster Honorable Mention
+    - <a href="http://ai.ntu.edu.tw/mlss2021/" target="_blank" rel="noopener">Machine Learning Summer School</a>, 2021
+- Student Travel Grant
+    - ISCA <a href="https://www.interspeech2021.org/" target="_blank" rel="noopener">Interspeech</a>, 2021
+- Dean's List Awards x 5
+    - NTU, 2017-2021
+- <a href="https://irvingthofoundation.github.io/ho-fellows.htm" target="_blank" rel="noopener">Irving T. Ho Memorial Scholarship</a>
+    - NTU, 2020 -->
 
-        
-          <div class="grid-item">
-  
-  <a href="/projects/georect_project/">
-  
-    <div class="card hoverable">
-      
-      <img src="/assets/img/georect.png" alt="project thumbnail" />
-      
-      <div class="card-body">
-        <h3 class="card-title text-lowercase">Deep Learning-based Image Geometric Rectification</h3>
-        <p class="card-text">Final project of Digital Image Processing</p>
-        <div class="row ml-1 mr-1 p-0">
-          
-          <div class="github-icon">
-            <div class="icon" data-toggle="tooltip" title="Code Repository">
-              <a href="https://github.com/vectominist/GeoRect-Demo/blob/master/Demo_GeoRect.ipynb" target="_blank"><i class="fab fa-github gh-icon"></i></a>
-            </div>
-            
-          </div>
-          
-        </div>
-      </div>
-    </div>
-  </a>
-</div>
-
-        
-          <div class="grid-item">
-  
-  <a href="/projects/mednlp_project/">
-  
-    <div class="card hoverable">
-      
-      <img src="/assets/img/mednlp.png" alt="project thumbnail" />
-      
-      <div class="card-body">
-        <h3 class="card-title text-lowercase">Mandarin Medical Dialogue Analysis</h3>
-        <p class="card-text">Final project of Natural Language Processing</p>
-        <div class="row ml-1 mr-1 p-0">
-          
-          <div class="github-icon">
-            <div class="icon" data-toggle="tooltip" title="Code Repository">
-              <a href="https://github.com/vectominist/MedNLP" target="_blank"><i class="fab fa-github gh-icon"></i></a>
-            </div>
-            
-          </div>
-          
-        </div>
-      </div>
-    </div>
-  </a>
-</div>
-
-        
-          <div class="grid-item">
-  
-  <a href="/projects/morphing_project/">
-  
-    <div class="card hoverable">
-      
-      <img src="https://raw.githubusercontent.com/vectominist/Face-Image-Morphing/master/example/sample_multi.gif" alt="project thumbnail" />
-      
-      <div class="card-body">
-        <h3 class="card-title text-lowercase">Face Image Morphing</h3>
-        <p class="card-text">Final project of Interactive Computer Graphics</p>
-        <div class="row ml-1 mr-1 p-0">
-          
-          <div class="github-icon">
-            <div class="icon" data-toggle="tooltip" title="Code Repository">
-              <a href="https://github.com/vectominist/Face-Image-Morphing" target="_blank"><i class="fab fa-github gh-icon"></i></a>
-            </div>
-            
-          </div>
-          
-        </div>
-      </div>
-    </div>
-  </a>
-</div>
-
-        
-          <div class="grid-item">
-  
-  <a href="/projects/coursemap_project/">
-  
-    <div class="card hoverable">
-      
-      <img src="/assets/img/coursemap.png" alt="project thumbnail" />
-      
-      <div class="card-body">
-        <h3 class="card-title text-lowercase">Course Map Visualization</h3>
-        <p class="card-text">open-source project</p>
-        <div class="row ml-1 mr-1 p-0">
-          
-          <div class="github-icon">
-            <div class="icon" data-toggle="tooltip" title="Code Repository">
-              <a href="https://github.com/vectominist/Course-Map-Visualization" target="_blank"><i class="fab fa-github gh-icon"></i></a>
-            </div>
-            
-          </div>
-          
-        </div>
-      </div>
-    </div>
-  </a>
-</div>
-
-        
-      </div>
-    
-
-  
-
-</div>
+<!-- 
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Interspeech 2021 Student Travel Grant</span> <span style="flex:  0 0 auto"><i>ISCA, 2021</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Dean's List Awards x 5</span> <span style="flex:  0 0 auto"><i>NTU, 2017-2021</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Honorable Mention, <a href="https://aidea-web.tw/topic/3665319f-cd5d-4f92-8902-00ebbd8e871d" target="_blank" rel="noopener">Medical Dialogue Analysis Competition</a></span> <span style="flex:  0 0 auto"><i>AI CUP, 2021</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><a href="https://irvingthofoundation.github.io/ho-fellows.htm" target="_blank" rel="noopener">Irving T. Ho Memorial Scholarship</a></span> <span style="flex:  0 0 auto"><i>NTU, 2020</i></span></p> -->
 
   </article>
 
