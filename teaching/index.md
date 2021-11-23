@@ -126,7 +126,7 @@
           
           
           <li class="nav-item ">
-              <a class="nav-link" href="/publications/">
+              <a class="nav-link" href="/Personal-Website/publications/">
                 Publications
                 
               </a>
@@ -137,7 +137,7 @@
           
           
           <li class="nav-item ">
-              <a class="nav-link" href="/projects/">
+              <a class="nav-link" href="/Personal-Website/projects/">
                 Projects
                 
               </a>
@@ -148,7 +148,7 @@
           
           
           <li class="nav-item ">
-              <a class="nav-link" href="/honors/">
+              <a class="nav-link" href="/Personal-Website/honors/">
                 Honors
                 
               </a>
@@ -159,7 +159,7 @@
           
           
           <li class="nav-item active">
-              <a class="nav-link" href="teaching/">
+              <a class="nav-link" href="/">
                 Teaching
                 
                 <span class="sr-only">(current)</span>
