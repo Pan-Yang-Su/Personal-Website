@@ -101,7 +101,7 @@
         <ul class="navbar-nav ml-auto flex-nowrap">
           <!-- About -->
           <li class="nav-item active">
-            <a class="nav-link" href="/">
+            <a class="nav-link" href="/Personal-Website/">
               about
               
                 <span class="sr-only">(current)</span>
