@@ -113,7 +113,7 @@
           <!--  -->
        
           <li class="nav-item ">
-              <a class="nav-link" href="/publications/">
+              <a class="nav-link" href="personal-website/publications/">
                 Publications
                 
               </a>
