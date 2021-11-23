@@ -187,7 +187,7 @@
 
   <header class="post-header">
     <h1 class="post-title">
-     <span class="font-weight-bold">Heng-Jui Chang</span>  
+     <span class="font-weight-bold">Pan-Yang Su</span>  
     </h1>
      <p class="desc"></p>
   </header>
