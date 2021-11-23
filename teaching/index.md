@@ -8,7 +8,7 @@
 
 <title>
 
-  Heng-Jui Chang  
+  Pan-Yang Su  
 
 
   | Teaching
@@ -81,7 +81,7 @@
     <div class="container">
       
       <a class="navbar-brand title font-weight-lighter" href="/">
-       <span class="font-weight-bold">Heng-Jui Chang</span>   
+       <span class="font-weight-bold">Pan-Yang Su</span>   
       </a>
       
       <!-- Navbar Toggle -->
