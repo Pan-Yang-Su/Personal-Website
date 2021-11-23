@@ -96,7 +96,7 @@
         <ul class="navbar-nav ml-auto flex-nowrap">
           <!-- About -->
           <li class="nav-item ">
-            <a class="nav-link" href="/">
+            <a class="nav-link" href="/Personal-Website/">
               about
               
             </a>
