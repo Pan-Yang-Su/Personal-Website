@@ -120,21 +120,21 @@
           </li>
 
           <li class="nav-item ">
-              <a class="nav-link" href="/projects/">
+              <a class="nav-link" href="projects/">
                 Projects
                 
               </a>
           </li>
 
           <li class="nav-item ">
-              <a class="nav-link" href="/honors/">
+              <a class="nav-link" href="honors/">
                 Honors
                 
               </a>
           </li>
    
           <li class="nav-item ">
-              <a class="nav-link" href="/teaching/">
+              <a class="nav-link" href="teaching/">
                 Teaching
                 
               </a>
