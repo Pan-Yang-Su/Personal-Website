@@ -245,10 +245,10 @@
   <li>
     <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0" align="left">
-      NTU, 2017-2021
+      NTU, 2019-2021
   </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-      Dean's List Awards x 5
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      Dean's List Awards x 6
   </div>
   </div>
   </li>
