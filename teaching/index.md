@@ -126,7 +126,7 @@
           
           
           <li class="nav-item ">
-              <a class="nav-link" href="publications/">
+              <a class="nav-link" href="/publications/">
                 Publications
                 
               </a>
@@ -137,7 +137,7 @@
           
           
           <li class="nav-item ">
-              <a class="nav-link" href="projects/">
+              <a class="nav-link" href="/projects/">
                 Projects
                 
               </a>
@@ -148,7 +148,7 @@
           
           
           <li class="nav-item ">
-              <a class="nav-link" href="honors/">
+              <a class="nav-link" href="/honors/">
                 Honors
                 
               </a>
