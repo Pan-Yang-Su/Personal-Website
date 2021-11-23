@@ -244,7 +244,7 @@
   </li>
   <li>
     <div class="row">
-  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+  <div class="col-sm-6 mt-3 mt-md-0" align="left">
       NTU, 2017-2021
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
