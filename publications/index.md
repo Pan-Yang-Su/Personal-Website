@@ -573,7 +573,7 @@
 
   <div id="chang2021towards" class="col-sm-11">
     
-      <div class="title">Towards Lifelong Learning of End-to-end ASR</div>
+      <div class="title">Strategy-Proof Beam-Aware Multicast Resource Allocation Mechanism</div>
       <div class="author">
         
           
@@ -584,48 +584,7 @@
           
             
               
-                <em>Heng-Jui Chang</em>,
-              
-            
-          
-        
-          
-          
-          
-          
-            
-              
-                
-                
-          
-          
-          
-            
-              
-                
-                  <a href="http://speech.ee.ntu.edu.tw/~hylee/" target="_blank">Hung-yi Lee</a>,
-                
-              
-            
-          
-        
-          
-          
-          
-          
-            
-              
-            
-              
-                
-                
-          
-          
-          
-            
-              
-                
-                  and <a href="http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm" target="_blank">Lin-shan Lee</a>
+                <em>Pan-Yang Su</em>, Yi-Yun Li, and <a href="https://homepage.ntu.edu.tw/~hywei/" target="_blank">Hung-Hu, Wei</a>
                 
               
             
@@ -635,7 +594,7 @@
 
       <div class="periodical">
       
-        <em>Interspeech</em>
+        <em>Wireless and Optical Communications Conference (WOCC)</em>
       
       
         2021
@@ -646,23 +605,7 @@
     <div class="links">
     
     
-      <a href="http://arxiv.org/abs/2104.01616" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
-    
-    
-    
-      <a href="https://youtu.be/r09AjQ66VHo" class="btn btn-sm z-depth-0" role="button" target="_blank">short video</a>
-    
-    
-      <a href="https://youtu.be/uLb3j1cEaX8" class="btn btn-sm z-depth-0" role="button" target="_blank">long video</a>
-    
-    
-    
-    
-    
-    
-    
-    
-    
+      <a href="https://ieeexplore.ieee.org/document/9602884" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
     
     </div>
 
