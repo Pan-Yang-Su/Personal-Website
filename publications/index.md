@@ -260,7 +260,8 @@
     <div class="links">
     
     
-      <a href="http://arxiv.org/abs/2110.01900" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+    <!--  <a href="http://arxiv.org/abs/2110.01900" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+-->
     
     </div>
 
