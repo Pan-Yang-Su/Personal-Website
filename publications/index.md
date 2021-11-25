@@ -239,7 +239,7 @@
       <div class="author">
         
               
-                <em>Pan-Yang Su</em>, Yi-Yun Li, Kuang-Hsun Lin, and<a href="https://homepage.ntu.edu.tw/~hywei/" target="_blank">Hung-Yu Wei</a>
+                <em>Pan-Yang Su</em>, Yi-Yun Li, Kuang-Hsun Lin, and <a href="https://homepage.ntu.edu.tw/~hywei/" target="_blank">Hung-Yu Wei</a>
                 
               
             
@@ -262,31 +262,10 @@
     
       <a href="http://arxiv.org/abs/2110.01900" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-      <a href="https://github.com/s3prl/s3prl/tree/master/s3prl/upstream/distiller" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
-    
-    
-    
-    
     </div>
 
     <!-- Hidden abstract block -->
     
-
-    
-    
-
-
-    
-
     <!-- Hidden bibtex block -->
     
   </div>
