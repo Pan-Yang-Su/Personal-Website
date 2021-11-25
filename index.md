@@ -203,7 +203,7 @@
     
 
     <div> <!--class="clearfix">-->
-      <p>Hi! I’m Pan-Yang Su (蘇磐洋), an undergraduate student at <a href="https://web.ee.ntu.edu.tw/" target="_blank" rel="noopener">NTUEE</a>. My research interests are game theory and quantum information theory.</p>
+      <p style="font-weight:bold">Hi! I’m Pan-Yang Su (蘇磐洋), an undergraduate student at <a href="https://web.ee.ntu.edu.tw/" target="_blank" rel="noopener">NTUEE</a>. My research interests are game theory and quantum information theory.</p>
 
 <p>I am an undergraduate researcher at the <a href="http://wmnlab.ee.ntu.edu.tw/lab/index.html" target="_blank" rel="noopener">Wireless and Mobile Network Laboratory</a> supervised by Prof. <a href="https://homepage.ntu.edu.tw/~hywei/" target="_blank" rel="noopener">Hung-Yu Wei</a>.</p>
 
