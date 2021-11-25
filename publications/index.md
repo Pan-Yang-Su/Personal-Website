@@ -223,7 +223,75 @@
   </header>
 
   <article>
+    <div class="publications">
+
+
+  <h2 class="year">2021</h2>
+  <br />
+  <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-0.5 abbr">
+  
+  </div>
+
+  <div id="chang2021distilhubert" class="col-sm-11">
     
+      <div class="title">DistilHuBERT: Speech Representation Learning by Layer-wise Distillation of Hidden-unit BERT</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                <em>Heng-Jui Chang</em>,
+              
+            
+          
+        
+          
+          
+          
+          
+            
+              
+                
+                
+          
+          
+          
+            
+              
+                
+                  <a href="https://github.com/leo19941227" target="_blank">Shu-wen Yang</a>,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+            
+              
+                
+                
+          
+          
+          
+            
+              
+                
+                  and <a href="http://speech.ee.ntu.edu.tw/~hylee/" target="_blank">Hung-yi Lee</a>
+                
+              
+            
+          
+        
+      </div>
 
       <div class="periodical">
       
