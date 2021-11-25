@@ -605,137 +605,14 @@
     <div class="links">
     
     
-      <a href="https://ieeexplore.ieee.org/document/9602884" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+      <a href="https://ieeexplore.ieee.org/document/9602884" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
     
     </div>
 
     <!-- Hidden abstract block -->
     
 
-    <!-- Hidden bibtex block -->
-    
-  </div>
-</div>
-</li>
-<li><div class="row">
-  <div class="col-sm-0.5 abbr">
-  
-  </div>
 
-  <div id="chang2021end" class="col-sm-11">
-    
-      <div class="title">End-to-end Whispered Speech Recognition with Frequency-weighted Approaches and Pseudo Whisper Pre-training</div>
-      <div class="author">
-        
-          
-          
-          
-          
-          
-          
-            
-              
-                <em>Heng-Jui Chang</em>,
-              
-            
-          
-        
-          
-          
-          
-          
-            
-              
-                
-                
-          
-          
-          
-            
-              
-                
-                  <a href="https://alexander-h-liu.github.io/" target="_blank">Alexander H. Liu</a>,
-                
-              
-            
-          
-        
-          
-          
-          
-          
-            
-              
-                
-                
-          
-          
-          
-            
-              
-                
-                  <a href="http://speech.ee.ntu.edu.tw/~hylee/" target="_blank">Hung-yi Lee</a>,
-                
-              
-            
-          
-        
-          
-          
-          
-          
-            
-              
-            
-              
-                
-                
-          
-          
-          
-            
-              
-                
-                  and <a href="http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm" target="_blank">Lin-shan Lee</a>
-                
-              
-            
-          
-        
-      </div>
-
-      <div class="periodical">
-      
-        <em>IEEE Spoken Language Technology Workshop (SLT)</em>
-      
-      
-        2021
-      
-      </div>
-    
-
-    <div class="links">
-    
-    
-      <a href="http://arxiv.org/abs/2005.01972" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
-    
-    
-      <a href="https://rc.signalprocessingsociety.org/workshops/slt-2021/SLT21VID027.html?source=IBP" class="btn btn-sm z-depth-0" role="button" target="_blank">video</a>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    </div>
-
-    <!-- Hidden abstract block -->
     
 
     <!-- Hidden bibtex block -->
