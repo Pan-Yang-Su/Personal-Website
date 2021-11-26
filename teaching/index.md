@@ -182,12 +182,9 @@
                 <a class="dropdown-item" href="/activities/">activities</a>
               
               
-              
+                <!--
                 <div class="dropdown-divider"></div>
-              
-              
-              
-                <a class="dropdown-item" href="/service/">service</a>
+              -->
               
               
               </div>
