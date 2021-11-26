@@ -245,16 +245,11 @@
 
   <div id="chang2021distilhubert" class="col-sm-11">
     
-      <div class="title">DistilHuBERT: Speech Representation Learning by Layer-wise Distillation of Hidden-unit BERT</div>
+      <div class="title">Incentive Mechanism Design for 5G mmWave Multicast Broadcast Services with Priority</div>
       <div class="author">
-             
-                <em>Heng-Jui Chang</em>,
+        
               
-                
-                  <a href="https://github.com/leo19941227" target="_blank">Shu-wen Yang</a>,
-                
-              
-                  and <a href="http://speech.ee.ntu.edu.tw/~hylee/" target="_blank">Hung-yi Lee</a>
+                <em>Pan-Yang Su</em>, Yi-Yun Li, Kuang-Hsun Lin, and <a href="https://homepage.ntu.edu.tw/~hywei/" target="_blank">Hung-Yu Wei</a>
                 
               
             
@@ -275,70 +270,13 @@
     <div class="links">
     
     
-      <a href="http://arxiv.org/abs/2110.01900" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
-    
-    
-      <a href="https://github.com/s3prl/s3prl/tree/master/s3prl/upstream/distiller" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
-    
-    
-    
+    <!--  <a href="http://arxiv.org/abs/2110.01900" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+-->
     
     </div>
 
     <!-- Hidden abstract block -->
     
-
-    <!-- Hidden bibtex block -->
-    
-  </div>
-</div>
-</li>
-<li><div class="row">
-  <div class="col-sm-0.5 abbr">
-  
-  </div>
-
-  <div id="chuang2021non" class="col-sm-11">
-    
-      <div class="title">Non-autoregressive Mandarin-English Code-switching Speech Recognition</div>
-      <div class="author">
-        
-            
-                
-                  <a href="https://scholar.google.com.hk/citations?user=CYDgtRoAAAAJ" target="_blank">Shun-Po Chuang*</a>,
-                
-                <em>Heng-Jui Chang*</em>,
-              
-             
-                  <a href="https://scholar.google.com.tw/citations?user=dtZ_69AAAAAJ" target="_blank">Sung-Feng Huang</a>,
-                
-                  and <a href="http://speech.ee.ntu.edu.tw/~hylee/" target="_blank">Hung-yi Lee</a>
-                
-              
-        
-      </div>
-
-      <div class="periodical">
-      
-        <em>IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)</em>
-      
-      
-        2021
-      
-      </div>
-    
-
-    <div class="links">
-    
-    
-      <a href="http://arxiv.org/abs/2104.02258" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
-    
-    
-    </div>
-
-    <!-- Hidden abstract block -->
-    
-
     <!-- Hidden bibtex block -->
     
   </div>
@@ -351,78 +289,28 @@
 
   <div id="chang2021towards" class="col-sm-11">
     
-      <div class="title">Towards Lifelong Learning of End-to-end ASR</div>
+      <div class="title">Strategy-Proof Beam-Aware Multicast Resource Allocation Mechanism</div>
       <div class="author">
         
-                <em>Heng-Jui Chang</em>,
+          
+          
+          
+          
+          
+          
+            
               
-                  <a href="http://speech.ee.ntu.edu.tw/~hylee/" target="_blank">Hung-yi Lee</a>,
+                <em>Pan-Yang Su</em>, Yi-Yun Li, and <a href="https://homepage.ntu.edu.tw/~hywei/" target="_blank">Hung-Hu, Wei</a>
                 
-              
-                
-                  and <a href="http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm" target="_blank">Lin-shan Lee</a>
-                
-              
-      </div>
-
-      <div class="periodical">
-      
-        <em>Interspeech</em>
-      
-      
-        2021
-      
-      </div>
-    
-
-    <div class="links">
-    
-    
-      <a href="http://arxiv.org/abs/2104.01616" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
-    
-    
-    
-      <a href="https://youtu.be/r09AjQ66VHo" class="btn btn-sm z-depth-0" role="button" target="_blank">short video</a>
-    
-    
-      <a href="https://youtu.be/uLb3j1cEaX8" class="btn btn-sm z-depth-0" role="button" target="_blank">long video</a>
-    
-    </div>
-
-    <!-- Hidden abstract block -->
-    
-
-    <!-- Hidden bibtex block -->
-    
-  </div>
-</div>
-</li>
-<li><div class="row">
-  <div class="col-sm-0.5 abbr">
-  
-  </div>
-
-  <div id="chang2021end" class="col-sm-11">
-    
-      <div class="title">End-to-end Whispered Speech Recognition with Frequency-weighted Approaches and Pseudo Whisper Pre-training</div>
-      <div class="author">
-        
-                <em>Heng-Jui Chang</em>,
               
             
-                  <a href="https://alexander-h-liu.github.io/" target="_blank">Alexander H. Liu</a>,
-               
-                  <a href="http://speech.ee.ntu.edu.tw/~hylee/" target="_blank">Hung-yi Lee</a>,
-               
-                
-                  and <a href="http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm" target="_blank">Lin-shan Lee</a>
-                
-              
+          
+        
       </div>
 
       <div class="periodical">
       
-        <em>IEEE Spoken Language Technology Workshop (SLT)</em>
+        <em>Wireless and Optical Communications Conference (WOCC)</em>
       
       
         2021
@@ -433,11 +321,7 @@
     <div class="links">
     
     
-      <a href="http://arxiv.org/abs/2005.01972" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
-    
-    
-      <a href="https://rc.signalprocessingsociety.org/workshops/slt-2021/SLT21VID027.html?source=IBP" class="btn btn-sm z-depth-0" role="button" target="_blank">video</a>
-    
+      <a href="https://ieeexplore.ieee.org/document/9602884" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
     
     </div>
 
