@@ -219,10 +219,28 @@
       <table class="table table-sm table-borderless">
      
         <tr>
-          <th scope="row">Jun 2, 2021</th>
+          <th scope="row">Sep, 2021</th>
           <td>
             
-              Our <a href="https://arxiv.org/abs/2104.01616" target="_blank" rel="noopener">paper</a> is accepted to <a href="https://www.interspeech2021.org/" target="_blank" rel="noopener">Interspeech 2021</a>!
+              Our <a href="https://ieeexplore.ieee.org/document/9602884" target="_blank" rel="noopener">paper</a> is accepted to <a href="https://www.wocc.org/index.html" target="_blank" rel="noopener">WOCC 2021</a>!
+
+            
+          </td>
+        </tr>
+      
+      </table>
+    </div>
+        
+   <h2>News</h2>
+  
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+     
+        <tr>
+          <th scope="row">Sep, 2021</th>
+          <td>
+            
+              Our <a href="https://ieeexplore.ieee.org/document/9602884" target="_blank" rel="noopener">paper</a> is accepted to <a href="https://www.wocc.org/index.html" target="_blank" rel="noopener">WOCC 2021</a>!
 
             
           </td>
