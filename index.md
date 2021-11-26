@@ -144,7 +144,7 @@
               <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
               
               
-                <a class="dropdown-item" href="/photos/傑出表現獎.jpg">activities</a>
+                <a class="dropdown-item" href="activities/">activities</a>
               
               
                 <!--
