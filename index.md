@@ -188,8 +188,7 @@
     
     <div class="profile float-right">
       
-        <img class="img1" src="傑出表現獎.jpg">
-        .img1{width: 100px;}
+        <img class="img1" src="傑出表現獎.jpg, "width="100">
       
     </div>
     
