@@ -188,8 +188,8 @@
     
     <div class="profile float-right">
       
-        <img class="img-fluid z-depth-1 rounded" src="傑出表現獎.jpg">
-      
+        <img class="img1" src="傑出表現獎.jpg">
+        .img1{width: 100px;}
       
     </div>
     
