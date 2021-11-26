@@ -237,6 +237,17 @@
   <li>
     <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
+      Outstanding Performance Scholarship (for WOCC paper)
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      NTU, 2021
+  </div>
+  </div>
+  </li>
+      
+  <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
       Top 10 for International Conference on Computer‑Aided Design (ICCAD) 2021 CADContest Problem B
   </div>
   <div class="col-sm-6 mt-3 mt-md-0" align="right">
@@ -252,7 +263,7 @@
       College Student Research Project sponsored by Ministry of Science and Technology
   </div>
   <div class="col-sm-6 mt-3 mt-md-0" align="right">
-      <a href="https://www.most.gov.tw/" rel="noopener">Ministry of Science and Technology</a>, 2021
+      <a href="https://www.most.gov.tw/?l=en" rel="noopener">Ministry of Science and Technology</a>, 2021
   </div>
   </div>
   </li>
