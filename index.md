@@ -147,9 +147,9 @@
                 <a class="dropdown-item" href="/activities/">activities</a>
               
               
-              
+                <!--
                 <div class="dropdown-divider"></div>
-              
+              -->
               
               
                 
