@@ -188,7 +188,7 @@
     
     <div class="profile float-right">
       
-        <img class="img-fluid z-depth-1 rounded" src="/assets/img/prof_pic_new.jpg">
+        <img class="img-fluid z-depth-1 rounded" src="/photos/傑出表現獎.jpg">
       
       
     </div>
