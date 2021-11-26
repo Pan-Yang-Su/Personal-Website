@@ -245,16 +245,6 @@
   </div>
   </li>
       
-  <li>
-    <div class="row">
-  <div class="col-sm-6 mt-3 mt-md-0">
-      <a href="https://irvingthofoundation.github.io/ho-fellows.htm" target="_blank" rel="noopener">Irving T. Ho Memorial Scholarship</a>
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0" align="right">
-      NTU, 2020
-  </div>
-  </div>
-  </li>
       
   <li>
     <div class="row">
@@ -267,7 +257,17 @@
   </div>
   </li>
       
-  
+  <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+      <a href="https://irvingthofoundation.github.io/ho-fellows.htm" target="_blank" rel="noopener">Irving T. Ho Memorial Scholarship</a>
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      NTU, 2020
+  </div>
+  </div>
+  </li>
+      
 </ul>
 
 
