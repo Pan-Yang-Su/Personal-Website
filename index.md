@@ -77,17 +77,13 @@
         <!-- Social Icons -->
         <div class="navbar-brand social">
           <a href="mailto:%62%30%36%39%30%31%30%32%30@%6E%74%75.%65%64%75.%74%77"><i class="fas fa-envelope"></i></a>
-
+<!--
 <a href="https://scholar.google.com/citations?user=Kzn0Ks8AAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-
-<a href="https://www.researchgate.net/profile/Heng-Jui-Chang-2/" target="_blank" title="ResearchGate"><i class="ai ai-researchgate"></i></a>
-<a href="https://github.com/vectominist" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-<a href="https://www.linkedin.com/in/heng-jui-chang" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-<a href="https://twitter.com/hjchang87" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
-
-
+-->
+<a href="https://github.com/b07901093-Young" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+<!--
 <a href="https://drive.google.com/file/d/1_aQC3Kp-P3K8Wf7L7K-ZwR64NLJhdV4u/view?usp=sharing" target="_blank" title="CV"><i class="ai ai-cv"></i></a>
-
+-->
         </div>
       
       <!-- Navbar Toggle -->
