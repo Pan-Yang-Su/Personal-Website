@@ -219,10 +219,10 @@
       <table class="table table-sm table-borderless">
      
         <tr>
-          <th scope="row">Sep, 2021</th>
+          <th scope="row">Nov, 2021</th>
           <td>
             
-              Our <a href="https://ieeexplore.ieee.org/document/9602884" target="_blank" rel="noopener">paper</a> is accepted to <a href="https://www.wocc.org/index.html" target="_blank" rel="noopener">WOCC 2021</a>!
+              I have been awarded Outstanding Performance Scholarship by NTU for the <a href="https://ieeexplore.ieee.org/document/9602884" target="_blank" rel="noopener">WOCC paper</a>!
 
             
           </td>
