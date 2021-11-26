@@ -222,6 +222,29 @@
 
   <article>
     <ul>
+
+  <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+      Dean's List Awards x 6
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      NTU, 2019-2021
+  </div>
+  </div>
+  </li>
+      
+  <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+      <a href="https://irvingthofoundation.github.io/ho-fellows.htm" target="_blank" rel="noopener">Irving T. Ho Memorial Scholarship</a>
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      NTU, 2020
+  </div>
+  </div>
+  </li>
+      
   <li>
     <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
@@ -232,6 +255,7 @@
   </div>
   </div>
   </li>
+      
   <li>
     <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
@@ -239,26 +263,6 @@
   </div>
   <div class="col-sm-6 mt-3 mt-md-0" align="right">
       ISCA <a href="https://www.interspeech2021.org/" target="_blank" rel="noopener">Interspeech</a>, 2021
-  </div>
-  </div>
-  </li>
-  <li>
-    <div class="row">
-  <div class="col-sm-6 mt-3 mt-md-0" align="left">
-      NTU, 2019-2021
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0" align="right">
-      Dean's List Awards x 6
-  </div>
-  </div>
-  </li>
-  <li>
-    <div class="row">
-  <div class="col-sm-6 mt-3 mt-md-0">
-      <a href="https://irvingthofoundation.github.io/ho-fellows.htm" target="_blank" rel="noopener">Irving T. Ho Memorial Scholarship</a>
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0" align="right">
-      NTU, 2020
   </div>
   </div>
   </li>
