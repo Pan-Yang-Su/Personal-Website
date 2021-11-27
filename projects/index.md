@@ -225,11 +225,11 @@
   <!-- Display projects without categories -->
         
     <li>
-    <a href="https://drive.google.com/drive/folders/1anQNfidshjfh0Ztnf8RTyAQvNPRBCntk" target="_blank">
+    <a href="https://drive.google.com/file/d/1StlHOGSfu3dPGyXw97o7cYmTqfSuUIeZ/view?usp=sharing" target="_blank">
     <b>Game Theory, Information Theory, and Quantum Mechanics</b>
     </a>
     <br/>
-    [<a href="https://drive.google.com/drive/folders/1anQNfidshjfh0Ztnf8RTyAQvNPRBCntk" target="_blank">pdf</a>]
+    [<a href="https://drive.google.com/file/d/1StlHOGSfu3dPGyXw97o7cYmTqfSuUIeZ/view?usp=sharing" target="_blank">pdf</a>]
     <div>
     <p>
       Final Project in <i>Quantum Information and Computation 2021 Spring</i>@NTU.
