@@ -188,7 +188,7 @@
     
     <div class="profile float-right">
       
-        <img class="img1" src="/photos/傑出表現獎.jpg" width="250">
+        <img class="img1" src="/photos/Outstanding_Performance_Scholarship.jpg" width="250">
       
     </div>
     
