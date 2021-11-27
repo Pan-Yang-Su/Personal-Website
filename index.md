@@ -251,7 +251,7 @@
   </div>
 
 <!--   <div id="chang2021distilhubert" class="col-sm-11"> -->
-   1. 
+   1. <div>
     
       <div class="title">Incentive Mechanism Design for 5G mmWave Multicast Broadcast Services with Priority</div>
       <div class="author">
@@ -287,7 +287,7 @@
     
     <!-- Hidden bibtex block -->
     
-<!--   </div> -->
+  </div>
 </div>
 </li>
 <li><div class="row">
@@ -295,7 +295,7 @@
   
   </div>
 <!-- <div id="chang2021towards" class="col-sm-11"> -->
-  2. 
+  2. <div>
     
       <div class="title">Strategy-Proof Beam-Aware Multicast Resource Allocation Mechanism</div>
       <div class="author">
@@ -338,7 +338,7 @@
 
     <!-- Hidden bibtex block -->
     
-<!--   </div> -->
+  </div>
 </div>
 </li></ol>
 </div>
