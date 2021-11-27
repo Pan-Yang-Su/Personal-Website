@@ -225,6 +225,19 @@
   <!-- Display projects without categories -->
         
     <li>
+    <a href="https://drive.google.com/file/d/130H2s38oqVwB4GGFK7xkqU06aXLBkKNm/view?usp=sharing" target="_blank">
+    <b>Analyzing quantum cryptography and communication based on quantum game theory</b>
+    </a>
+    <br/>
+    [<a href="https://drive.google.com/file/d/130H2s38oqVwB4GGFK7xkqU06aXLBkKNm/view?usp=sharing target="_blank">pdf</a>]
+    <div>
+    <p>
+      College Student Research Project sponsored by <i>Ministry of Science and Technology 2021</i>@NTU.
+    </p>
+    </div>
+    </li>
+      
+    <li>
     <a href="https://drive.google.com/file/d/1StlHOGSfu3dPGyXw97o7cYmTqfSuUIeZ/view?usp=sharing" target="_blank">
     <b>Game Theory, Information Theory, and Quantum Mechanics</b>
     </a>
@@ -232,7 +245,7 @@
     [<a href="https://drive.google.com/file/d/1StlHOGSfu3dPGyXw97o7cYmTqfSuUIeZ/view?usp=sharing" target="_blank">pdf</a>]
     <div>
     <p>
-      Final Project in <i>Quantum Information and Computation 2021 Spring</i>@NTU.
+      Final Project in <i>Quantum Information and Computation 2021</i>@NTU.
     </p>
     </div>
     </li>
@@ -246,7 +259,7 @@
     [<a href="https://github.com/b07901093-Young/Introduction-to-Wireless-and-Mobile-Networking" target="_blank">code</a>]
     <div>
     <p>
-    Final Project in <i>Introduction to Wireless and Mobile Networking 2021 Spring</i>@NTU.
+    Final Project in <i>Introduction to Wireless and Mobile Networking 2021</i>@NTU.
     </p>
     </div>
     </li>
@@ -260,7 +273,21 @@
     [<a href="https://github.com/b07901093-Young/Electrical-Engineering-Lab-topics-on-Communication-System" target="_blank">code</a>]
     <div>
     <p>
-    Final Project in <i>Electrical Engineering Lab (topics on Communication System)</i>@NTU.
+    Final Project in <i>Electrical Engineering Lab (topics on Communication System) 2021</i>@NTU.
+    </p>
+    </div>
+    </li>
+      
+    <li>
+    <a href="https://drive.google.com/file/d/1h3jANoJCjfQlOnQv_U1Zk31akZD-P5Sx/view?usp=sharing" target="_blank">
+    <b>Implementation and Analysis of Opinosis: A Graph-Based Abstractive Summarization</b>
+    </a>
+    <br/>
+    [<a href="https://drive.google.com/file/d/1h3jANoJCjfQlOnQv_U1Zk31akZD-P5Sx/view?usp=sharing" target="_blank">pdf</a>]
+    [<a href="https://b07901093-young.github.io/Introduction-to-Digital-Speech-Processing" target="_blank">code</a>]
+    <div>
+    <p>
+    Final Project in <i>Introduction to Digital Speech Processing 2021</i>@NTU.
     </p>
     </div>
     </li>
