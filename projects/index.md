@@ -180,7 +180,7 @@
               <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
               
               
-                <a class="dropdown-item" href="activities/">activities</a>
+                <a class="dropdown-item" href="/Personal-Website/activities/">activities</a>
               
               
                 <!--
