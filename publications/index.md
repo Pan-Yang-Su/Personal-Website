@@ -226,7 +226,7 @@
   <h2 class="year">2021</h2>
   <br />
 <!--   <ol class="bibliography"><li> -->
-    <div class="row">
+  2.  <div class="row">
   <div class="col-sm-0.5 abbr">
   
   </div>
@@ -271,7 +271,7 @@
 </div>
 <!-- </li> -->
 <!-- <li> -->
-  <div class="row">
+  2. <div class="row">
   <div class="col-sm-0.5 abbr">
   
   </div>
