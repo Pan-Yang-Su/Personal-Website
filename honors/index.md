@@ -234,6 +234,17 @@
   <li>
     <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
+      Hui Rong Welfare and Charity Foundation Scholarship x 2
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      NTU, 2020-2021
+  </div>
+  </div>
+  </li>
+      
+  <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
       Outstanding Performance Scholarship (for WOCC paper)
   </div>
   <div class="col-sm-6 mt-3 mt-md-0" align="right">
@@ -253,6 +264,16 @@
   </div>
   </li>
       
+  <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+      Oral presentation at WOCC
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      <a href="https://www.wocc.org/index.html" target="_blank" rel="noopener">WOCC</a>, 2021
+  </div>
+  </div>
+  </li>
       
   <li>
     <div class="row">
@@ -272,6 +293,28 @@
   </div>
   <div class="col-sm-6 mt-3 mt-md-0" align="right">
       NTU, 2020
+  </div>
+  </div>
+  </li>
+      
+  <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+      Liao Jin Di Memorial Scholarship</a>
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      NTU, 2019
+  </div>
+  </div>
+  </li>
+        
+   <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+      Pan Wen Yuan Foundation Scholarship</a>
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      NTU, 2019
   </div>
   </div>
   </li>
