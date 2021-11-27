@@ -213,7 +213,7 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Honors</h1>
+    <h1 class="post-title">Activities</h1>
     <p class="post-description"></p>
   </header>
 
@@ -265,27 +265,7 @@
   </li>
       
       
-  <li>
-    <div class="row">
-  <div class="col-sm-6 mt-3 mt-md-0">
-      College Student Research Project sponsored by Ministry of Science and Technology
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0" align="right">
-      <a href="https://www.most.gov.tw/?l=en" rel="noopener">Ministry of Science and Technology</a>, 2021
-  </div>
-  </div>
-  </li>
-      
-  <li>
-    <div class="row">
-  <div class="col-sm-6 mt-3 mt-md-0">
-      <a href="https://irvingthofoundation.github.io/ho-fellows.htm" target="_blank" rel="noopener">Irving T. Ho Memorial Scholarship</a>
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0" align="right">
-      NTU, 2020
-  </div>
-  </div>
-  </li>
+  
       
 </ul>
 
