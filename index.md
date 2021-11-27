@@ -198,17 +198,13 @@
 
   <li>
     <div class="row">
-  
       Algorithmic Game Theory and Quantum Game Theory
-  
   </div>
   </li>
       
   <li>
     <div class="row">
-  <div class="col-sm-6 mt-3 mt-md-0">
       Mechanism Design for Next-Generation Networks and Quantum Internet
-  </div>
   </div>
   </li>
       
