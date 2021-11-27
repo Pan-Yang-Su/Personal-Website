@@ -252,15 +252,15 @@
     </li>
       
     <li>
-    <a href="https://drive.google.com/file/d/1njuMPKFVXiKhNfSkIClbji2gfetGN6uh/view?usp=sharing" target="_blank">
-    <b>Analysis of the System Performance of WiFi under Different Scenarios</b>
+    <a href="https://drive.google.com/file/d/154wHKgxCCbmo753HKz-uSLCU4E1829xw/view?usp=sharing" target="_blank">
+    <b>An Exploration of Quantum Game Theory</b>
     </a>
     <br/>
-    [<a href="https://drive.google.com/file/d/1njuMPKFVXiKhNfSkIClbji2gfetGN6uh/view?usp=sharing" target="_blank">pdf</a>]
-    [<a href="https://github.com/voidism/ImpairedVoiceASR" target="_blank">code</a>]
+    [<a href="https://drive.google.com/file/d/154wHKgxCCbmo753HKz-uSLCU4E1829xw/view?usp=sharing" target="_blank">pdf</a>]
+    [<a href="https://github.com/b07901093-Young/Electrical-Engineering-Lab-topics-on-Communication-System" target="_blank">code</a>]
     <div>
     <p>
-    Final Project in <i>Introduction to Wireless and Mobile Networking 2021 Spring</i>@NTU.
+    Final Project in <i>Electrical Engineering Lab (topics on Communication System)</i>@NTU.
     </p>
     </div>
     </li>
