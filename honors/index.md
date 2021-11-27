@@ -300,7 +300,7 @@
   <li>
     <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-      Liao Jin Di Memorial Scholarship</a>
+      Liao Jin Di Memorial Scholarship
   </div>
   <div class="col-sm-6 mt-3 mt-md-0" align="right">
       NTU, 2019
@@ -311,7 +311,7 @@
    <li>
     <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-      Pan Wen Yuan Foundation Scholarship</a>
+      Pan Wen Yuan Foundation Scholarship
   </div>
   <div class="col-sm-6 mt-3 mt-md-0" align="right">
       NTU, 2019
