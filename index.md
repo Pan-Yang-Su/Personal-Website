@@ -245,7 +245,8 @@
     
       <div class="publications">
   <h2>Selected Publications</h2>
-  <ol class="bibliography"><li><div class="row">
+<!--   <ol class="bibliography"><li> -->
+    <div class="row">
 <!--   <div class="col-sm-0.5 abbr">
   
   </div> -->
@@ -289,8 +290,9 @@
     
   </div>
 </div>
-</li>
-<li><div class="row">
+<!-- </li> -->
+<!--     <li> -->
+<div class="row">
   <div class="col-sm-0.5 abbr">
   
   </div>
@@ -340,7 +342,7 @@
     
   </div>
 </div>
-</li></ol>
+<!-- </li></ol> -->
 </div>
 
     
