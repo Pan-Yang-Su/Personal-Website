@@ -194,17 +194,17 @@
     
 
     <div> <!--class="clearfix">-->
-      <p style="font-weight:bold">Hi! I’m Pan-Yang Su (蘇磐洋), an undergraduate student at <a href="https://web.ee.ntu.edu.tw/" target="_blank" rel="noopener">NTUEE</a>. My research interests are game theory and quantum information theory.</p>
+      <p style="font-weight:bold">Hi! I’m Pan-Yang Su (蘇磐洋), an undergraduate student at <a href="https://web.ee.ntu.edu.tw/" target="_blank" rel="noopener">NTUEE</a>. My research interests are game theory and quantum information theory. Specifically, I have the following research interest.</p>
 
   <li>
     <div class="row">
-      Algorithmic Game Theory and Quantum Game Theory
+      <p style="font-weight:bold">Algorithmic Game Theory and Quantum Game Theory</p>
   </div>
   </li>
       
   <li>
     <div class="row">
-      Mechanism Design for Next-Generation Networks and Quantum Internet
+      <p style="font-weight:bold">Mechanism Design for Next-Generation Networks and Quantum Internet</p>
   </div>
   </li>
       
