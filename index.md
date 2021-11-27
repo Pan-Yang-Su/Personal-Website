@@ -246,9 +246,9 @@
       <div class="publications">
   <h2>Selected Publications</h2>
   <ol class="bibliography"><li><div class="row">
-  <div class="col-sm-0.5 abbr">
+<!--   <div class="col-sm-0.5 abbr">
   
-  </div>
+  </div> -->
 
 <!--   <div id="chang2021distilhubert" class="col-sm-11"> -->
    1. <div>
