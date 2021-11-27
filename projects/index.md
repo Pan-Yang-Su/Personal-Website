@@ -229,7 +229,7 @@
     <b>Analyzing quantum cryptography and communication based on quantum game theory</b>
     </a>
     <br/>
-    [<a href="https://drive.google.com/file/d/130H2s38oqVwB4GGFK7xkqU06aXLBkKNm/view?usp=sharing target="_blank">pdf</a>]
+    [<a href="https://drive.google.com/file/d/130H2s38oqVwB4GGFK7xkqU06aXLBkKNm/view?usp=sharing target=" target="_blank">pdf</a>]
     <div>
     <p>
       College Student Research Project sponsored by <i>Ministry of Science and Technology 2021</i>@NTU.
