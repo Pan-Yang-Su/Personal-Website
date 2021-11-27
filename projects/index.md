@@ -223,23 +223,21 @@
     <div class="projects">
   
   <!-- Display projects without categories -->
+        
     <li>
-                            <a href="https://github.com/raywu0123/ICCAD2019-Problem-E" target="_blank">
-                                <b>Rectilinear Polygon Operations for Physical Design</b>
-                            </a>
-                            <br/>
-                            <!-- [<a href="#" onclick="$('#sris_abstract').toggle();return false;">abstract</a>] -->
-                            <!-- [<a href="https://drive.google.com/file/d/199N-2Up1SFS_BtM_nRVw8yCiYuepw1bg/view" target="_blank">pdf</a>] -->
-                            <!-- [<a href="https://aclanthology.org/2020.findings-emnlp.443.pdf" target="_blank">pdf</a>] -->
-                            [<a href="https://github.com/raywu0123/ICCAD2019-Problem-E" target="_blank">code</a>]
-                            <!-- [<a href="https://slideslive.com/38938863/lifelong-language-knowledge-distillation" target="_blank">video</a>] -->
-                            <!-- [<a href="https://leaderboard.allenai.org/quoref" target="_blank">leaderboard</a>] -->
-                            <div>
-                                <p>
-                                    <a href="http://iccad-contest.org/2019/tw/problems.html" target="_blank">ICCAD 2019 CAD Contest - Problem E</a>. Final Project in <i>Algorithms 2019 Spring</i>@NTU.
-                                </p>
-                            </div>
-                        </li>
+    <a href="https://github.com/raywu0123/ICCAD2019-Problem-E" target="_blank">
+    <b>Rectilinear Polygon Operations for Physical Design</b>
+    </a>
+    <br/>
+    [<a href="https://github.com/raywu0123/ICCAD2019-Problem-E" target="_blank">code</a>]
+    <div>
+    <p>
+    <a href="http://iccad-contest.org/2019/tw/problems.html" target="_blank">ICCAD 2019 CAD Contest - Problem E</a>. Final Project in <i>Algorithms 2019 Spring</i>@NTU.
+    </p>
+    </div>
+    </li>
+      
+      
     <!-- Generate cards for each project -->
     
       
@@ -261,7 +259,7 @@
 
 
 
-  </body>
+ 
 
   <!-- Bootsrap & MDB scripts -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.4.4/umd/popper.min.js" integrity="sha512-eUQ9hGdLjBjY3F41CScH3UX+4JDSI9zXeroz7hJ+RteoCaY+GP/LDoM8AO+Pt+DRFw3nXqsjh9Zsts8hnYv8/A==" crossorigin="anonymous"></script>
