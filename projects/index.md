@@ -284,7 +284,7 @@
     </a>
     <br/>
     [<a href="https://drive.google.com/file/d/1h3jANoJCjfQlOnQv_U1Zk31akZD-P5Sx/view?usp=sharing" target="_blank">pdf</a>]
-    [<a href="https://b07901093-young.github.io/Introduction-to-Digital-Speech-Processing" target="_blank">code</a>]
+    [<a href="https://github.com/b07901093-Young/Introduction-to-Digital-Speech-Processing" target="_blank">code</a>]
     <div>
     <p>
     Final Project in <i>Introduction to Digital Speech Processing 2021</i>@NTU.
