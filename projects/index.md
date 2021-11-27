@@ -243,7 +243,7 @@
     </a>
     <br/>
     [<a href="https://drive.google.com/file/d/1njuMPKFVXiKhNfSkIClbji2gfetGN6uh/view?usp=sharing" target="_blank">pdf</a>]
-    [<a href="https://b07901093-young.github.io/Introduction-to-Wireless-and-Mobile-Networking/" target="_blank">code</a>]
+    [<a href="https://github.com/b07901093-Young/Introduction-to-Wireless-and-Mobile-Networking" target="_blank">code</a>]
     <div>
     <p>
     Final Project in <i>Introduction to Wireless and Mobile Networking 2021 Spring</i>@NTU.
