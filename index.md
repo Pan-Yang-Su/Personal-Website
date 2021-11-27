@@ -198,9 +198,9 @@
 
   <li>
     <div class="row">
-  <div class="col-sm-6 mt-3 mt-md-0">
+  
       Algorithmic Game Theory and Quantum Game Theory
-  </div>
+  
   </div>
   </li>
       
