@@ -223,10 +223,10 @@
   <li>
     <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-      Dean's List Awards x 6
+      Team leader at ICCAD contest
   </div>
   <div class="col-sm-6 mt-3 mt-md-0" align="right">
-      NTU, 2019-2021
+      ICCAD <a href="http://iccad-contest.org/2021/Winners.html" target="_blank" rel="noopener">CADContest</a>
   </div>
   </div>
   </li>
@@ -234,10 +234,10 @@
   <li>
     <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-      Outstanding Performance Scholarship (for WOCC paper)
+      Member of the table tennis team of NTUEE
   </div>
   <div class="col-sm-6 mt-3 mt-md-0" align="right">
-      NTU, 2021
+      NTU, 2018-2021
   </div>
   </div>
   </li>
@@ -245,10 +245,21 @@
   <li>
     <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-      Top 10 for International Conference on Computer‑Aided Design (ICCAD) 2021 CADContest Problem B
+      Volunteer and docent at the <a href="https://www.npm.gov.tw/?l=2" target="_blank" rel="noopener">National Palace Museum</a> and <a href="https://www.ntm.gov.tw/en/" target="_blank" rel="noopener">National Taiwan Museum</a>
   </div>
   <div class="col-sm-6 mt-3 mt-md-0" align="right">
-      ICCAD <a href="http://iccad-contest.org/2021/Winners.html" target="_blank" rel="noopener">CADContest</a>, 2021
+      High school
+  </div>
+  </div>
+  </li>
+      
+  <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+      One of the leaders of the <a href="https://ck70th109.wixsite.com/servicelearning/aboutus" target="_blank" rel="noopener">class volunteer group</a> at the <a href="https://www.chaca.org.tw/" target="_blank" rel="noopener">Andrew Charity Association</a> food bank
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      High school
   </div>
   </div>
   </li>
