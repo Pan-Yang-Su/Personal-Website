@@ -225,18 +225,30 @@
   <!-- Display projects without categories -->
         
     <li>
-    <a href="https://github.com/raywu0123/ICCAD2019-Problem-E" target="_blank">
-    <b>Rectilinear Polygon Operations for Physical Design</b>
+    <a href="https://drive.google.com/drive/folders/1anQNfidshjfh0Ztnf8RTyAQvNPRBCntk" target="_blank">
+    <b>Game Theory, Information Theory, and Quantum Mechanics</b>
     </a>
     <br/>
-    [<a href="https://github.com/raywu0123/ICCAD2019-Problem-E" target="_blank">code</a>]
+    [<a href="https://drive.google.com/drive/folders/1anQNfidshjfh0Ztnf8RTyAQvNPRBCntk" target="_blank">pdf</a>]
     <div>
     <p>
-    <a href="http://iccad-contest.org/2019/tw/problems.html" target="_blank">ICCAD 2019 CAD Contest - Problem E</a>. Final Project in <i>Algorithms 2019 Spring</i>@NTU.
+      Final Project in <i>Quantum Information and Computation 2021 Spring</i>@NTU.
     </p>
     </div>
     </li>
-      
+     
+    <li>
+    <a href="https://drive.google.com/drive/folders/1anQNfidshjfh0Ztnf8RTyAQvNPRBCntk" target="_blank">
+    <b>Game Theory, Information Theory, and Quantum Mechanics</b>
+    </a>
+    <br/>
+    [<a href="https://drive.google.com/drive/folders/1anQNfidshjfh0Ztnf8RTyAQvNPRBCntk" target="_blank">pdf</a>]
+    <div>
+    <p>
+    <a href="http://iccad-contest.org/2019/tw/problems.html" target="_blank">ICCAD 2019 CAD Contest - Problem E</a>. Final Project in <i>Quantum Information and Computation 2021 Spring</i>@NTU.
+    </p>
+    </div>
+    </li>
       
     <!-- Generate cards for each project -->
     
