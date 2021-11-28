@@ -207,54 +207,122 @@
 
 </header>
 
-
-    <!-- Content -->
+    
+     <!-- Content -->
 
     <div class="container mt-5">
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Teaching</h1>
+    <h1 class="post-title">Honors</h1>
     <p class="post-description"></p>
   </header>
 
   <article>
-    <p><strong>Teaching Assistant</strong>, NTU EE</p>
+    <ul>
 
-<ul>
-  
   <li>
     <div class="row">
-  <div class="col-sm-9 mt-3 mt-md-0">
-      <a href="http://speech.ee.ntu.edu.tw/SS2021Spring/" target="_blank" rel="noopener">Signals and Systems</a>
+  <div class="col-sm-6 mt-3 mt-md-0">
+      Dean's List Awards x 6
   </div>
-  <div class="col-sm-3 mt-3 mt-md-0" align="right">
-      Spring 2021
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      NTU, 2019-2021
   </div>
   </div>
   </li>
-  
-    <p><strong>Study Group</strong>, NTU EE</p>
-
-<ul>
-  
+      
   <li>
     <div class="row">
-  <div class="col-sm-9 mt-3 mt-md-0">
-      Game Theory Study Group (Price of Anarchy, learning in games, and cooperative games)
+  <div class="col-sm-6 mt-3 mt-md-0">
+      Hui Rong Welfare and Charity Foundation Scholarship x 2
   </div>
-  <div class="col-sm-3 mt-3 mt-md-0" align="right">
-      2020-2021
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      NTU, 2020-2021
   </div>
   </div>
   </li>
-  
+      
+  <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+      Outstanding Performance Scholarship (for WOCC paper)
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      NTU, 2021
+  </div>
+  </div>
+  </li>
+      
+  <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+      Top 10 for International Conference on Computer‑Aided Design (ICCAD) 2021 CADContest Problem B
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      ICCAD <a href="http://iccad-contest.org/2021/Winners.html" target="_blank" rel="noopener">CADContest</a>, 2021
+  </div>
+  </div>
+  </li>
+      
+  <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+      Oral presentation at WOCC
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      <a href="https://www.wocc.org/index.html" target="_blank" rel="noopener">WOCC</a>, 2021
+  </div>
+  </div>
+  </li>
+      
+  <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+      College Student Research Project sponsored by Ministry of Science and Technology
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      <a href="https://www.most.gov.tw/?l=en" rel="noopener">Ministry of Science and Technology</a>, 2021
+  </div>
+  </div>
+  </li>
+      
+  <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+      <a href="https://irvingthofoundation.github.io/ho-fellows.htm" target="_blank" rel="noopener">Irving T. Ho Memorial Scholarship</a>
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      NTU, 2020
+  </div>
+  </div>
+  </li>
+      
+  <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+      Liao Jin Di Memorial Scholarship
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      NTU, 2019
+  </div>
+  </div>
+  </li>
+        
+   <li>
+    <div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+      Pan Wen Yuan Foundation Scholarship
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0" align="right">
+      NTU, 2019
+  </div>
+  </div>
+  </li>
+      
 </ul>
 
-<!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><a href="http://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html" target="_blank" rel="noopener">Machine Learning (English & Mandarin Classes)</a></span> <span style="flex:  0 0 auto"><i>Spring 2021</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><a href="https://cool.ntu.edu.tw/courses/3789" target="_blank" rel="noopener">Linear Algebra</a></span> <span style="flex:  0 0 auto"><i>Fall 2020</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html" target="_blank" rel="noopener">Deep Learning for Human Language Processing Project</a></span> <span style="flex:  0 0 auto"><i>Summer 2020</i></span></p>
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><a href="http://speech.ee.ntu.edu.tw/SS2020Spring/" target="_blank" rel="noopener">Signals and Systems</a></span> <span style="flex:  0 0 auto"><i>Spring 2020</i></span></p> -->
+
 
   </article>
 
@@ -263,6 +331,8 @@
     </div>
 
     <!-- Footer -->
+
+    
 
     
 <footer class="fixed-bottom">
