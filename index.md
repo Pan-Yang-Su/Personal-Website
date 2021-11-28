@@ -208,7 +208,7 @@
   </div>
   </li>
       
-<p style="font-weight:bold">I am an undergraduate researcher at the <a href="http://wmnlab.ee.ntu.edu.tw/lab/index.html" target="_blank" rel="noopener">Wireless and Mobile Network Laboratory</a> supervised by Prof. <a href="https://homepage.ntu.edu.tw/~hywei/" target="_blank" rel="noopener">Hung-Yu Wei</a>.</p>
+<p style="font-weight:bold">I am an undergraduate researcher at the <a href="http://wmnlab.ee.ntu.edu.tw/lab/index.html" target="_blank" rel="noopener">Wireless and Mobile Network Laboratory</a> supervised by Prof. <a href="https://homepage.ntu.edu.tw/~hywei/" target="_blank" rel="noopener">Hung-Yu Wei</a> and the Quantum Information Lab supervised by Prof. <a href="http://www.ee.ntu.edu.tw/profile1.php?id=1080917" target="_blank" rel="noopener">Hao-Chung Cheng</a></p>
 
 <p style="font-weight:bold">I’m seeking opportunities to study for a Ph.D. starting from 2022 fall!</p>
 
