@@ -198,15 +198,15 @@
       <p style="font-weight:bold">Hi! I’m Pan-Yang Su (蘇磐洋), an undergraduate student at <a href="https://web.ee.ntu.edu.tw/" target="_blank" rel="noopener">NTUEE</a>. My research orientations are game theory and quantum information theory. Specifically, I have the following research interests.</p>
 
   <li>
-    <div class="row">
+<!--     <div class="row"> -->
       <p style="font-weight:bold">Algorithmic Game Theory and Quantum Game Theory</p>
-  </div>
+<!--   </div> -->
   </li>
       
   <li>
-    <div class="row">
+<!--     <div class="row"> -->
       <p style="font-weight:bold">Mechanism Design for Next-Generation Networks and Quantum Internet</p>
-  </div>
+<!--   </div> -->
   </li>
       
 <p style="font-weight:bold">I am an undergraduate researcher at the <a href="http://wmnlab.ee.ntu.edu.tw/lab/index.html" target="_blank" rel="noopener">Wireless and Mobile Network Laboratory</a> supervised by Prof. <a href="https://homepage.ntu.edu.tw/~hywei/" target="_blank" rel="noopener">Hung-Yu Wei</a> and the Quantum Information Lab supervised by Prof. <a href="http://www.ee.ntu.edu.tw/profile1.php?id=1080917" target="_blank" rel="noopener">Hao-Chung Cheng</a></p>
