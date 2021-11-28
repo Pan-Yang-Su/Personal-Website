@@ -234,17 +234,17 @@
   </div>
   </li>
   
-    <p><strong>Teaching Assistant</strong>, NTU EE</p>
+    <p><strong>Study Group</strong>, NTU EE</p>
 
 <ul>
   
   <li>
     <div class="row">
   <div class="col-sm-9 mt-3 mt-md-0">
-      <a href="http://speech.ee.ntu.edu.tw/SS2021Spring/" target="_blank" rel="noopener">Signals and Systems</a>
+      Game Theory Study Group (price of anarchy, learning in games, and coalitional game theory)
   </div>
   <div class="col-sm-3 mt-3 mt-md-0" align="right">
-      Spring 2021
+      2020-2021
   </div>
   </div>
   </li>
