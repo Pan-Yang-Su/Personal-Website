@@ -235,7 +235,7 @@
    <li>
     <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-      Signals and Systems teaching assistant
+      <a href="hhttp://speech.ee.ntu.edu.tw/SS2021Spring/" target="_blank" rel="noopener">Signals and Systems</a> teaching assistant
   </div>
   <div class="col-sm-6 mt-3 mt-md-0" align="right">
       NTU, 2021
