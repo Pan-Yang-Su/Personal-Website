@@ -76,7 +76,8 @@
       
         <!-- Social Icons -->
         <div class="navbar-brand social">
-          <a href="mailto:%62%30%36%39%30%31%30%32%30@%6E%74%75.%65%64%75.%74%77"><i class="fas fa-envelope"></i></a>
+<!--           <a href="mailto:%62%30%36%39%30%31%30%32%30@%6E%74%75.%65%64%75.%74%77"><i class="fas fa-envelope"></i></a> -->
+          <a href="mailto:b07901093@ntu.edu.tw"><i class="fas fa-envelope"></i></a>
 <!--
 <a href="https://scholar.google.com/citations?user=Kzn0Ks8AAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
 -->
