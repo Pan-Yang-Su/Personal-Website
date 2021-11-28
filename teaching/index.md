@@ -233,8 +233,7 @@
   </div>
   </div>
   </li>
-  </article>
-  <article>
+  
     <p><strong>Study Group</strong>, NTU EE</p>
 
 <ul>
