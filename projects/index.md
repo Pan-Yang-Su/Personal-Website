@@ -292,6 +292,20 @@
     </div>
     </li>
       
+    <li>
+    <a href="https://youtu.be/DXuizMT1sHM" target="_blank">
+    <b>Simulation of Carnot refrigerator</b>
+    </a>
+    <br/>
+    [<a href="https://drive.google.com/file/d/1Fe9BGGO6LmJ-DcY6_vmvmMnePoW7NzYc/view?usp=sharing" target="_blank">video</a>]
+    [<a href="https://github.com/b07901093-Young/General-Physics" target="_blank">code</a>]
+    <div>
+    <p>
+    Final Project in <i>General Physics 2019</i>@NTU.
+    </p>
+    </div>
+    </li>
+      
     <!-- Generate cards for each project -->
     
       
