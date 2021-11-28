@@ -199,7 +199,7 @@
 
 <!--   <li> -->
 <!--     <div class="row"> -->
-   <p style="font-weight:bold"> &#8226 Algorithmic Game Theory and Quantum Game Theory </p>
+   <p style="font-weight:bold"> &#8226; Algorithmic Game Theory and Quantum Game Theory </p>
 <!--       <p style="font-weight:bold">&bull; Algorithmic Game Theory and Quantum Game Theory</p> -->
 <!--   </div> -->
 <!--   </li> -->
