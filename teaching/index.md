@@ -241,13 +241,14 @@
   <li>
     <div class="row">
   <div class="col-sm-9 mt-3 mt-md-0">
-      Game Theory Study Group (price of anarchy, learning in games, and coalitional game theory)
+      Game Theory Study Group (Price of Anarchy, learning in games, and coperative game)
   </div>
   <div class="col-sm-3 mt-3 mt-md-0" align="right">
       2020-2021
   </div>
   </div>
   </li>
+  
 </ul>
 
 <!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><a href="http://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html" target="_blank" rel="noopener">Machine Learning (English & Mandarin Classes)</a></span> <span style="flex:  0 0 auto"><i>Spring 2021</i></span></p>
