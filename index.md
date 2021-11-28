@@ -199,7 +199,7 @@
 
 <!--   <li> -->
 <!--     <div class="row"> -->
-   ## * Algorithmic Game Theory and Quantum Game Theory
+   <p style="font-weight:bold"> Algorithmic Game Theory and Quantum Game Theory </p>
 <!--       <p style="font-weight:bold">Algorithmic Game Theory and Quantum Game Theory</p> -->
 <!--   </div> -->
 <!--   </li> -->
@@ -207,7 +207,7 @@
 <!--   <li> -->
 <!--     <div class="row"> -->
 <!--       <p style="font-weight:bold">Mechanism Design for Next-Generation Networks and Quantum Internet</p> -->
-      ## * Mechanism Design for Next-Generation Networks and Quantum Internet
+      <p style="font-weight:bold"> Mechanism Design for Next-Generation Networks and Quantum Internet </p>
 <!--   </div> -->
 <!--   </li> -->
       
