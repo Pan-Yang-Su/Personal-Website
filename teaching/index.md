@@ -242,7 +242,7 @@
   <li>
     <div class="row">
   <div class="col-sm-9 mt-3 mt-md-0">
-      Game Theory Study Group (Price of Anarchy, learning in games, and coperative game)
+      Game Theory Study Group (Price of Anarchy, learning in games, and cooperative games)
   </div>
   <div class="col-sm-3 mt-3 mt-md-0" align="right">
       2020-2021
