@@ -234,7 +234,6 @@
   </div>
   </li>
   
-  <article>
     <p><strong>Teaching Assistant</strong>, NTU EE</p>
 
 <ul>
