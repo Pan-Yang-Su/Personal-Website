@@ -233,6 +233,22 @@
   </div>
   </div>
   </li>
+  
+  <article>
+    <p><strong>Teaching Assistant</strong>, NTU EE</p>
+
+<ul>
+  
+  <li>
+    <div class="row">
+  <div class="col-sm-9 mt-3 mt-md-0">
+      <a href="http://speech.ee.ntu.edu.tw/SS2021Spring/" target="_blank" rel="noopener">Signals and Systems</a>
+  </div>
+  <div class="col-sm-3 mt-3 mt-md-0" align="right">
+      Spring 2021
+  </div>
+  </div>
+  </li>
 </ul>
 
 <!-- - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto"><a href="http://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html" target="_blank" rel="noopener">Machine Learning (English & Mandarin Classes)</a></span> <span style="flex:  0 0 auto"><i>Spring 2021</i></span></p>
