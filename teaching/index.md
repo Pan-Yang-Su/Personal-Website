@@ -80,7 +80,7 @@
     <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
     <div class="container">
       
-      <a class="navbar-brand title font-weight-lighter" href="/">
+      <a class="navbar-brand title font-weight-lighter" href="/Personal-Website/">
        <span class="font-weight-bold">Pan-Yang Su</span>   
       </a>
       
