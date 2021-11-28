@@ -147,7 +147,7 @@
           
           
           <li class="nav-item active">
-              <a class="nav-link" href="">
+              <a class="nav-link" href="/Personal-Website/honors/">
                 Honors
                 
                 <span class="sr-only">(current)</span>
