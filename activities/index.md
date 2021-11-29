@@ -282,12 +282,9 @@
     
 <footer class="fixed-bottom">
   <div class="container mt-0">
-    &copy; Copyright 2021 Heng-Jui Chang  .
+    &copy; Copyright 2021 Pan-Yang Su.
     Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-    
-    
-    Last updated: November 01, 2021.
     
   </div>
 </footer>
