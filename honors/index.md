@@ -234,7 +234,7 @@
   <li>
     <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-      Hui Rong Welfare and Charity Foundation Scholarship x 2
+      Hui Jung Welfare and Charity Foundation Scholarship x 2
   </div>
   <div class="col-sm-6 mt-3 mt-md-0" align="right">
       NTU, 2020-2021
@@ -245,7 +245,7 @@
   <li>
     <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-      <a href="https://drive.google.com/file/d/1kn2FR9Z44oVp0HBpsxNtuCcLkpHpdN9b/view?usp=sharing" target="_blank" rel="noopener">Outstanding Performance Scholarship (for WOCC paper)</a>
+      <a href="https://drive.google.com/file/d/1kn2FR9Z44oVp0HBpsxNtuCcLkpHpdN9b/view?usp=sharing" target="_blank" rel="noopener">NTU Outstanding Performance Scholarship (for WOCC paper)</a>
   </div>
   <div class="col-sm-6 mt-3 mt-md-0" align="right">
       NTU, 2021
@@ -311,7 +311,7 @@
    <li>
     <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-      Pan Wen Yuan Foundation Scholarship
+      <a href="https://pan.itri.org.tw/awards/scholarship.aspx?nid=A229B5EC5952C71E#2019" target="_blank" rel="noopener">Pan Wen Yuan Foundation Scholarship</a>
   </div>
   <div class="col-sm-6 mt-3 mt-md-0" align="right">
       NTU, 2019
