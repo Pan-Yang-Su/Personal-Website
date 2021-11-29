@@ -226,7 +226,7 @@
         
     <li>
     <a href="https://drive.google.com/file/d/130H2s38oqVwB4GGFK7xkqU06aXLBkKNm/view?usp=sharing" target="_blank">
-    <b>Analyzing quantum cryptography and communication based on quantum game theory</b>
+    <b>Analyzing Quantum Cryptography and Communication based on Quantum Game Theory</b>
     </a>
     <br/>
     [<a href="https://drive.google.com/file/d/130H2s38oqVwB4GGFK7xkqU06aXLBkKNm/view?usp=sharing target=" target="_blank">pdf</a>]
