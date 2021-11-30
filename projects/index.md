@@ -294,7 +294,7 @@
       
     <li>
     <a href="https://youtu.be/DXuizMT1sHM" target="_blank">
-    <b>Simulation of Carnot refrigerator</b>
+    <b>Simulation of Carnot Refrigerator</b>
     </a>
     <br/>
     [<a href="https://drive.google.com/file/d/1Fe9BGGO6LmJ-DcY6_vmvmMnePoW7NzYc/view?usp=sharing" target="_blank">video</a>]
