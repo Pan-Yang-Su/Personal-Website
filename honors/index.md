@@ -223,7 +223,7 @@
   <li>
     <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-      Dean's List Awards x 6
+      Dean's List Awards x 6 (No. 1 every semester)
   </div>
   <div class="col-sm-6 mt-3 mt-md-0" align="right">
       NTU, 2019-2021
