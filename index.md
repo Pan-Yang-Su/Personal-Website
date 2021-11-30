@@ -82,7 +82,7 @@
 <a href="https://scholar.google.com/citations?user=Kzn0Ks8AAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
 -->
 <a href="https://github.com/b07901093-Young" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-<a href="https://drive.google.com/file/d/1_aQC3Kp-P3K8Wf7L7K-ZwR64NLJhdV4u/view?usp=sharing" target="_blank" title="CV"><i class="ai ai-cv"></i></a>
+<a href="https://drive.google.com/file/d/1c8QvgkL6TdWJtL3nV0ND4NNioBMk7e8v/view?usp=sharing" target="_blank" title="CV"><i class="ai ai-cv"></i></a>
 
         </div>
       
