@@ -188,7 +188,7 @@
     
     <div class="profile float-right" style="font-size:0.5em">
       
-        <img class="img1" src="/photos/Outstanding_Performance_Scholarship.jpg" width="250">
+        <img class="img1" src="/photos/Outstanding_Performance_Scholarship.jpg" width="400">
       <br> I am the first from the left, and National Taiwan University<br> President Chung-Ming Kuan is the third from the right.
       
     </div>
