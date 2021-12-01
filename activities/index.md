@@ -226,7 +226,7 @@
       Team leader at ICCAD contest
   </div>
   <div class="col-sm-6 mt-3 mt-md-0" align="right">
-      ICCAD <a href="http://iccad-contest.org/2021/Winners.html" target="_blank" rel="noopener">CADContest</a>
+      ICCAD <a href="http://iccad-contest.org/2021/Winners.html" target="_blank" rel="noopener">CAD Contest</a>
   </div>
   </div>
   </li>
@@ -256,7 +256,7 @@
   <li>
     <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-      One of the leaders of the <a href="https://ck70th109.wixsite.com/servicelearning/aboutus" target="_blank" rel="noopener">class volunteer group</a> at the <a href="https://www.chaca.org.tw/" target="_blank" rel="noopener">Andrew Charity Association</a> food bank
+      One of the leaders of the <a href="https://ck70th109.wixsite.com/servicelearning" target="_blank" rel="noopener">class volunteer group</a> at the <a href="https://www.chaca.org.tw/" target="_blank" rel="noopener">Andrew Charity Association</a> food bank
   </div>
   <div class="col-sm-6 mt-3 mt-md-0" align="right">
       High school
