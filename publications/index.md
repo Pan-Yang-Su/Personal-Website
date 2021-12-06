@@ -233,7 +233,7 @@
 
   <div id="chang2021distilhubert" class="col-sm-11">
     
-      <div class="title">Incentive Mechanism Design for 5G mmWave Multicast Broadcast Services with Priority</div>
+      <div class="title">Priority-Aware Resource Allocation for 5G mmWave Multicast Broadcast Service</div>
       <div class="author">
         
               
@@ -247,7 +247,7 @@
 
       <div class="periodical">
       
-        <em>In Preparation</em>
+        <em>IEEE Transactions on Wireless Communications, Under review</em>
       
       
         2021
