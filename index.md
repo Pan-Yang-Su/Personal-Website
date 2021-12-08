@@ -270,9 +270,9 @@
   </div> -->
 
 <!--   <div id="chang2021distilhubert" class="col-sm-11"> -->
-   1. <div>
+      <div>
     
-      <div class="title"> Priority-Aware Resource Allocation for 5G mmWave Multicast Broadcast Service</div>
+      <div class="title">1. Priority-Aware Resource Allocation for 5G mmWave Multicast Broadcast Service</div>
       <div class="author">
         
               
@@ -315,9 +315,9 @@
   
   </div>
 <!-- <div id="chang2021towards" class="col-sm-11"> -->
-  2. <div>
+      <div>
     
-      <div class="title"> Strategy-Proof Beam-Aware Multicast Resource Allocation Mechanism</div>
+      <div class="title">2. Strategy-Proof Beam-Aware Multicast Resource Allocation Mechanism</div>
       <div class="author">
         
           
