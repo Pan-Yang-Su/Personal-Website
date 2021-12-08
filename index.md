@@ -216,7 +216,7 @@
       
 <p style="font-weight:bold">I am an undergraduate researcher at the <a href="http://wmnlab.ee.ntu.edu.tw/lab/index.html" target="_blank" rel="noopener">Wireless and Mobile Network Laboratory</a> supervised by Prof. <a href="https://homepage.ntu.edu.tw/~hywei/" target="_blank" rel="noopener">Hung-Yu Wei</a> and the Quantum Information Lab supervised by Prof. <a href="http://www.ee.ntu.edu.tw/profile1.php?id=1080917" target="_blank" rel="noopener">Hao-Chung Cheng</a></p>
 
-<p style="font-weight:bold">I am working on the application of game theory in 5G Multicast and Broadcast Services (the paper is expected to be submitted to IEEE Transactions on Wireless Communications this December) and the relationship between correleated equilibria and quantum game theory. I desire to prusue a research career, and I am seeking opportunities to study for a Ph.D starting from Fall 2022!</p>
+<p style="font-weight:bold">I am working on the application of game theory in 5G Multicast and Broadcast Services and the relationship between correleated equilibria and quantum game theory. I desire to prusue a research career, and I am seeking opportunities to study for a Ph.D starting from Fall 2022!</p>
 
     </div>
 
