@@ -256,10 +256,10 @@
   <li>
     <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-      Top 10 for International Conference on Computer‑Aided Design (ICCAD) 2021 CADContest Problem B
+      Top 10 for International Conference on Computer‑Aided Design (ICCAD) 2021 CAD Contest Problem B
   </div>
   <div class="col-sm-6 mt-3 mt-md-0" align="right">
-      ICCAD <a href="http://iccad-contest.org/2021/Winners.html" target="_blank" rel="noopener">CADContest</a>, 2021
+      ICCAD <a href="http://iccad-contest.org/2021/Winners.html" target="_blank" rel="noopener">CAD Contest</a>, 2021
   </div>
   </div>
   </li>
