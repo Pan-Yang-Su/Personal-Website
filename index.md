@@ -190,9 +190,9 @@
       
         <img class="img1" src="/photos/Outstanding_Performance_Scholarship.jpg" width="400">
       <br>I was awarded the Outstanding Performance Scholarship at the 
-      <br>NTU 93rd Anniversary Celebration. I was the first from the left,
-      <br>and National Taiwan University President Chung-Ming Kuan was
-      <br>the third from the right
+      <br>NTU 93rd Anniversary Celebration. I was the left one, and 
+      <br>National Taiwan University President Chung-Ming Kuan was
+      <br>the right one.
       
     </div>
     
