@@ -198,7 +198,7 @@
     
 
     <div> <!--class="clearfix">-->
-      <p style="font-weight:bold">Hi! I’m Pan-Yang Su (蘇磐洋), an undergraduate student at <a href="https://web.ee.ntu.edu.tw/" target="_blank" rel="noopener">NTUEE</a>. My research orientations are game theory and quantum information theory. Specifically, I have the following research interests.</p>
+      <p style="font-weight:bold">Hi! I’m Pan-Yang Su (蘇磐洋), an undergraduate student at <a href="https://web.ee.ntu.edu.tw/" target="_blank" rel="noopener">NTUEE</a>. My research orientations are game theory, algorithm, and quantum information theory. Specifically, I have the following research interests.</p>
 
 <!--   <li> -->
 <!--     <div class="row"> -->
