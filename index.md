@@ -272,7 +272,7 @@
 <!--   <div id="chang2021distilhubert" class="col-sm-11"> -->
       <div>
     
-      <div class="title">1. Priority-Aware Resource Allocation for 5G mmWave Multicast Broadcast Service</div>
+      <div class="title">1. Priority-Aware Resource Allocation for 5G mmWave Multicast Broadcast Services</div>
       <div class="author">
         
               
@@ -286,10 +286,10 @@
 
       <div class="periodical">
       
-        <em>IEEE Transactions on Wireless Communications, Under review</em>
+        <em>IEEE Transactions on Broadcasting</em>
       
       
-        2021
+        2022
       
       </div>
     
@@ -297,7 +297,7 @@
     <div class="links">
     
     
-     [<a href="https://drive.google.com/file/d/1gsbNK0i6gxlkEcUXZZSradkVgCuAAWeH/view?usp=sharing" target="_blank">PDF</a>]
+     [<a href="https://ieeexplore.ieee.org/document/9965945" target="_blank">PDF</a>]
 
     
     </div>
